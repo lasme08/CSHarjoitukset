@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\179923\\OneDrive - Salon seudun koulutuskuntayhtym\u00E4\\Ohjelmointi\\source\\repos\\Forloop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0320C91A-B56C-44B9-AE39-626333D6A017}|Forloop\\Forloop.csproj|c:\\users\\179923\\onedrive - salon seudun koulutuskuntayhtym\u00E4\\ohjelmointi\\source\\repos\\forloop\\forloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0320C91A-B56C-44B9-AE39-626333D6A017}|Forloop\\Forloop.csproj|solutionrelative:forloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\179923\\OneDrive - Salon seudun koulutuskuntayhtym\u00E4\\Ohjelmointi\\source\\repos\\Forloop\\Forloop\\Program.cs",
+              "RelativeDocumentMoniker": "Forloop\\Program.cs",
+              "ToolTip": "C:\\Users\\179923\\OneDrive - Salon seudun koulutuskuntayhtym\u00E4\\Ohjelmointi\\source\\repos\\Forloop\\Forloop\\Program.cs",
+              "RelativeToolTip": "Forloop\\Program.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAQwLkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T10:32:57.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

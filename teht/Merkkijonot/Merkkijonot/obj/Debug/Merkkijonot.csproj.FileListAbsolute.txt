@@ -1,0 +1,7 @@
+C:\Users\179923\OneDrive - Salon seudun koulutuskuntayhtymä\Ohjelmointi\source\repos\Merkkijonot\Merkkijonot\bin\Debug\Merkkijonot.exe.config
+C:\Users\179923\OneDrive - Salon seudun koulutuskuntayhtymä\Ohjelmointi\source\repos\Merkkijonot\Merkkijonot\bin\Debug\Merkkijonot.exe
+C:\Users\179923\OneDrive - Salon seudun koulutuskuntayhtymä\Ohjelmointi\source\repos\Merkkijonot\Merkkijonot\bin\Debug\Merkkijonot.pdb
+C:\Users\179923\OneDrive - Salon seudun koulutuskuntayhtymä\Ohjelmointi\source\repos\Merkkijonot\Merkkijonot\obj\Debug\Merkkijonot.csproj.AssemblyReference.cache
+C:\Users\179923\OneDrive - Salon seudun koulutuskuntayhtymä\Ohjelmointi\source\repos\Merkkijonot\Merkkijonot\obj\Debug\Merkkijonot.csproj.CoreCompileInputs.cache
+C:\Users\179923\OneDrive - Salon seudun koulutuskuntayhtymä\Ohjelmointi\source\repos\Merkkijonot\Merkkijonot\obj\Debug\Merkkijonot.exe
+C:\Users\179923\OneDrive - Salon seudun koulutuskuntayhtymä\Ohjelmointi\source\repos\Merkkijonot\Merkkijonot\obj\Debug\Merkkijonot.pdb

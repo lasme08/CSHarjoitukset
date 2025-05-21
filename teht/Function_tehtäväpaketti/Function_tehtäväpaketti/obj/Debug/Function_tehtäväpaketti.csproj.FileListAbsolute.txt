@@ -1,0 +1,7 @@
+C:\Users\179923\OneDrive - Salon seudun koulutuskuntayhtymä\Ohjelmointi\source\repos\Function_tehtäväpaketti\Function_tehtäväpaketti\obj\Debug\Function_tehtäväpaketti.csproj.AssemblyReference.cache
+C:\Users\179923\OneDrive - Salon seudun koulutuskuntayhtymä\Ohjelmointi\source\repos\Function_tehtäväpaketti\Function_tehtäväpaketti\obj\Debug\Function_tehtäväpaketti.csproj.CoreCompileInputs.cache
+C:\Users\179923\OneDrive - Salon seudun koulutuskuntayhtymä\Ohjelmointi\source\repos\Function_tehtäväpaketti\Function_tehtäväpaketti\bin\Debug\Function_tehtäväpaketti.exe.config
+C:\Users\179923\OneDrive - Salon seudun koulutuskuntayhtymä\Ohjelmointi\source\repos\Function_tehtäväpaketti\Function_tehtäväpaketti\bin\Debug\Function_tehtäväpaketti.exe
+C:\Users\179923\OneDrive - Salon seudun koulutuskuntayhtymä\Ohjelmointi\source\repos\Function_tehtäväpaketti\Function_tehtäväpaketti\bin\Debug\Function_tehtäväpaketti.pdb
+C:\Users\179923\OneDrive - Salon seudun koulutuskuntayhtymä\Ohjelmointi\source\repos\Function_tehtäväpaketti\Function_tehtäväpaketti\obj\Debug\Function_tehtäväpaketti.exe
+C:\Users\179923\OneDrive - Salon seudun koulutuskuntayhtymä\Ohjelmointi\source\repos\Function_tehtäväpaketti\Function_tehtäväpaketti\obj\Debug\Function_tehtäväpaketti.pdb

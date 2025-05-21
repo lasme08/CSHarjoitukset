@@ -1,0 +1,7 @@
+C:\Users\179923\source\repos\Koulutyo1\Koulutyo1\bin\Debug\Koulutyo1.exe.config
+C:\Users\179923\source\repos\Koulutyo1\Koulutyo1\bin\Debug\Koulutyo1.exe
+C:\Users\179923\source\repos\Koulutyo1\Koulutyo1\bin\Debug\Koulutyo1.pdb
+C:\Users\179923\source\repos\Koulutyo1\Koulutyo1\obj\Debug\Koulutyo1.csproj.AssemblyReference.cache
+C:\Users\179923\source\repos\Koulutyo1\Koulutyo1\obj\Debug\Koulutyo1.csproj.CoreCompileInputs.cache
+C:\Users\179923\source\repos\Koulutyo1\Koulutyo1\obj\Debug\Koulutyo1.exe
+C:\Users\179923\source\repos\Koulutyo1\Koulutyo1\obj\Debug\Koulutyo1.pdb

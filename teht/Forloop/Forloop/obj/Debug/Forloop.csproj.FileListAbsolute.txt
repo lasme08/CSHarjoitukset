@@ -1,0 +1,7 @@
+C:\Users\179923\OneDrive - Salon seudun koulutuskuntayhtymä\Ohjelmointi\source\repos\Forloop\Forloop\bin\Debug\Forloop.exe.config
+C:\Users\179923\OneDrive - Salon seudun koulutuskuntayhtymä\Ohjelmointi\source\repos\Forloop\Forloop\bin\Debug\Forloop.exe
+C:\Users\179923\OneDrive - Salon seudun koulutuskuntayhtymä\Ohjelmointi\source\repos\Forloop\Forloop\bin\Debug\Forloop.pdb
+C:\Users\179923\OneDrive - Salon seudun koulutuskuntayhtymä\Ohjelmointi\source\repos\Forloop\Forloop\obj\Debug\Forloop.csproj.AssemblyReference.cache
+C:\Users\179923\OneDrive - Salon seudun koulutuskuntayhtymä\Ohjelmointi\source\repos\Forloop\Forloop\obj\Debug\Forloop.csproj.CoreCompileInputs.cache
+C:\Users\179923\OneDrive - Salon seudun koulutuskuntayhtymä\Ohjelmointi\source\repos\Forloop\Forloop\obj\Debug\Forloop.exe
+C:\Users\179923\OneDrive - Salon seudun koulutuskuntayhtymä\Ohjelmointi\source\repos\Forloop\Forloop\obj\Debug\Forloop.pdb

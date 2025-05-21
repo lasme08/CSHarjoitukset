@@ -1,0 +1,7 @@
+C:\Users\179923\source\repos\Whileloop\Whileloop\bin\Debug\Whileloop.exe.config
+C:\Users\179923\source\repos\Whileloop\Whileloop\bin\Debug\Whileloop.exe
+C:\Users\179923\source\repos\Whileloop\Whileloop\bin\Debug\Whileloop.pdb
+C:\Users\179923\source\repos\Whileloop\Whileloop\obj\Debug\Whileloop.csproj.AssemblyReference.cache
+C:\Users\179923\source\repos\Whileloop\Whileloop\obj\Debug\Whileloop.csproj.CoreCompileInputs.cache
+C:\Users\179923\source\repos\Whileloop\Whileloop\obj\Debug\Whileloop.exe
+C:\Users\179923\source\repos\Whileloop\Whileloop\obj\Debug\Whileloop.pdb

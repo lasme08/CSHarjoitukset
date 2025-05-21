@@ -1,0 +1,7 @@
+C:\Users\179923\OneDrive - Salon seudun koulutuskuntayhtymä\Ohjelmointi\source\repos\Dowhile\Dowhile\bin\Debug\Dowhile.exe.config
+C:\Users\179923\OneDrive - Salon seudun koulutuskuntayhtymä\Ohjelmointi\source\repos\Dowhile\Dowhile\bin\Debug\Dowhile.exe
+C:\Users\179923\OneDrive - Salon seudun koulutuskuntayhtymä\Ohjelmointi\source\repos\Dowhile\Dowhile\bin\Debug\Dowhile.pdb
+C:\Users\179923\OneDrive - Salon seudun koulutuskuntayhtymä\Ohjelmointi\source\repos\Dowhile\Dowhile\obj\Debug\Dowhile.csproj.AssemblyReference.cache
+C:\Users\179923\OneDrive - Salon seudun koulutuskuntayhtymä\Ohjelmointi\source\repos\Dowhile\Dowhile\obj\Debug\Dowhile.csproj.CoreCompileInputs.cache
+C:\Users\179923\OneDrive - Salon seudun koulutuskuntayhtymä\Ohjelmointi\source\repos\Dowhile\Dowhile\obj\Debug\Dowhile.exe
+C:\Users\179923\OneDrive - Salon seudun koulutuskuntayhtymä\Ohjelmointi\source\repos\Dowhile\Dowhile\obj\Debug\Dowhile.pdb

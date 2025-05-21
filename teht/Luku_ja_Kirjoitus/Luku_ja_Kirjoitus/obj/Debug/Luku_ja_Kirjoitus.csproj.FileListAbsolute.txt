@@ -1,0 +1,7 @@
+C:\Users\179923\OneDrive - Salon seudun koulutuskuntayhtymä\Ohjelmointi\source\repos\Luku_ja_Kirjoitus\Luku_ja_Kirjoitus\obj\Debug\Luku_ja_Kirjoitus.csproj.AssemblyReference.cache
+C:\Users\179923\OneDrive - Salon seudun koulutuskuntayhtymä\Ohjelmointi\source\repos\Luku_ja_Kirjoitus\Luku_ja_Kirjoitus\obj\Debug\Luku_ja_Kirjoitus.csproj.CoreCompileInputs.cache
+C:\Users\179923\OneDrive - Salon seudun koulutuskuntayhtymä\Ohjelmointi\source\repos\Luku_ja_Kirjoitus\Luku_ja_Kirjoitus\bin\Debug\Luku_ja_Kirjoitus.exe.config
+C:\Users\179923\OneDrive - Salon seudun koulutuskuntayhtymä\Ohjelmointi\source\repos\Luku_ja_Kirjoitus\Luku_ja_Kirjoitus\bin\Debug\Luku_ja_Kirjoitus.exe
+C:\Users\179923\OneDrive - Salon seudun koulutuskuntayhtymä\Ohjelmointi\source\repos\Luku_ja_Kirjoitus\Luku_ja_Kirjoitus\bin\Debug\Luku_ja_Kirjoitus.pdb
+C:\Users\179923\OneDrive - Salon seudun koulutuskuntayhtymä\Ohjelmointi\source\repos\Luku_ja_Kirjoitus\Luku_ja_Kirjoitus\obj\Debug\Luku_ja_Kirjoitus.exe
+C:\Users\179923\OneDrive - Salon seudun koulutuskuntayhtymä\Ohjelmointi\source\repos\Luku_ja_Kirjoitus\Luku_ja_Kirjoitus\obj\Debug\Luku_ja_Kirjoitus.pdb

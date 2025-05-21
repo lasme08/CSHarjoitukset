@@ -1,0 +1,14 @@
+C:\Users\179923\source\repos\tietotyypit\tietotyypit\obj\Debug\tietotyypit.csproj.AssemblyReference.cache
+C:\Users\179923\source\repos\tietotyypit\tietotyypit\obj\Debug\tietotyypit.csproj.CoreCompileInputs.cache
+C:\Users\179923\source\repos\tietotyypit\tietotyypit\bin\Debug\tietotyypit.exe.config
+C:\Users\179923\source\repos\tietotyypit\tietotyypit\bin\Debug\tietotyypit.exe
+C:\Users\179923\source\repos\tietotyypit\tietotyypit\bin\Debug\tietotyypit.pdb
+C:\Users\179923\source\repos\tietotyypit\tietotyypit\obj\Debug\tietotyypit.exe
+C:\Users\179923\source\repos\tietotyypit\tietotyypit\obj\Debug\tietotyypit.pdb
+C:\Users\179923\OneDrive - Salon seudun koulutuskuntayhtymä\Ohjelmointi\source\repos\tietotyypit\tietotyypit\bin\Debug\tietotyypit.exe.config
+C:\Users\179923\OneDrive - Salon seudun koulutuskuntayhtymä\Ohjelmointi\source\repos\tietotyypit\tietotyypit\bin\Debug\tietotyypit.exe
+C:\Users\179923\OneDrive - Salon seudun koulutuskuntayhtymä\Ohjelmointi\source\repos\tietotyypit\tietotyypit\bin\Debug\tietotyypit.pdb
+C:\Users\179923\OneDrive - Salon seudun koulutuskuntayhtymä\Ohjelmointi\source\repos\tietotyypit\tietotyypit\obj\Debug\tietotyypit.csproj.AssemblyReference.cache
+C:\Users\179923\OneDrive - Salon seudun koulutuskuntayhtymä\Ohjelmointi\source\repos\tietotyypit\tietotyypit\obj\Debug\tietotyypit.csproj.CoreCompileInputs.cache
+C:\Users\179923\OneDrive - Salon seudun koulutuskuntayhtymä\Ohjelmointi\source\repos\tietotyypit\tietotyypit\obj\Debug\tietotyypit.exe
+C:\Users\179923\OneDrive - Salon seudun koulutuskuntayhtymä\Ohjelmointi\source\repos\tietotyypit\tietotyypit\obj\Debug\tietotyypit.pdb

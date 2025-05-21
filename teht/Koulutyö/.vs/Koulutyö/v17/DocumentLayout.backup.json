@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\179923\\source\\repos\\Kouluty\u00F6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C12FCEC8-F1CA-492C-91DC-688AD6AED476}|Kouluty\u00F6\\Kouluty\u00F6.csproj|c:\\users\\179923\\source\\repos\\kouluty\u00F6\\kouluty\u00F6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C12FCEC8-F1CA-492C-91DC-688AD6AED476}|Kouluty\u00F6\\Kouluty\u00F6.csproj|solutionrelative:kouluty\u00F6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\179923\\source\\repos\\Kouluty\u00F6\\Kouluty\u00F6\\Program.cs",
+              "RelativeDocumentMoniker": "Kouluty\u00F6\\Program.cs",
+              "ToolTip": "C:\\Users\\179923\\source\\repos\\Kouluty\u00F6\\Kouluty\u00F6\\Program.cs",
+              "RelativeToolTip": "Kouluty\u00F6\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAgwEgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T06:26:46.212Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\179923\OneDrive - Salon seudun koulutuskuntayhtymä\Ohjelmointi\source\repos\Joslauseet\Joslauseet\bin\Debug\Joslauseet.exe.config
+C:\Users\179923\OneDrive - Salon seudun koulutuskuntayhtymä\Ohjelmointi\source\repos\Joslauseet\Joslauseet\bin\Debug\Joslauseet.exe
+C:\Users\179923\OneDrive - Salon seudun koulutuskuntayhtymä\Ohjelmointi\source\repos\Joslauseet\Joslauseet\bin\Debug\Joslauseet.pdb
+C:\Users\179923\OneDrive - Salon seudun koulutuskuntayhtymä\Ohjelmointi\source\repos\Joslauseet\Joslauseet\obj\Debug\Joslauseet.csproj.AssemblyReference.cache
+C:\Users\179923\OneDrive - Salon seudun koulutuskuntayhtymä\Ohjelmointi\source\repos\Joslauseet\Joslauseet\obj\Debug\Joslauseet.csproj.CoreCompileInputs.cache
+C:\Users\179923\OneDrive - Salon seudun koulutuskuntayhtymä\Ohjelmointi\source\repos\Joslauseet\Joslauseet\obj\Debug\Joslauseet.exe
+C:\Users\179923\OneDrive - Salon seudun koulutuskuntayhtymä\Ohjelmointi\source\repos\Joslauseet\Joslauseet\obj\Debug\Joslauseet.pdb

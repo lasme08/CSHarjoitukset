@@ -1,0 +1,7 @@
+C:\Users\179923\source\repos\Koulutyö\Koulutyö\obj\Debug\Koulutyö.csproj.AssemblyReference.cache
+C:\Users\179923\source\repos\Koulutyö\Koulutyö\obj\Debug\Koulutyö.csproj.CoreCompileInputs.cache
+C:\Users\179923\source\repos\Koulutyö\Koulutyö\bin\Debug\Koulutyö.exe.config
+C:\Users\179923\source\repos\Koulutyö\Koulutyö\bin\Debug\Koulutyö.exe
+C:\Users\179923\source\repos\Koulutyö\Koulutyö\bin\Debug\Koulutyö.pdb
+C:\Users\179923\source\repos\Koulutyö\Koulutyö\obj\Debug\Koulutyö.exe
+C:\Users\179923\source\repos\Koulutyö\Koulutyö\obj\Debug\Koulutyö.pdb

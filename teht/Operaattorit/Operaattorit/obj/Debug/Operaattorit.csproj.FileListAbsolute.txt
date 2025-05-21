@@ -1,0 +1,7 @@
+C:\Users\179923\OneDrive - Salon seudun koulutuskuntayhtymä\Ohjelmointi\source\repos\Operaattorit\Operaattorit\bin\Debug\Operaattorit.exe.config
+C:\Users\179923\OneDrive - Salon seudun koulutuskuntayhtymä\Ohjelmointi\source\repos\Operaattorit\Operaattorit\bin\Debug\Operaattorit.exe
+C:\Users\179923\OneDrive - Salon seudun koulutuskuntayhtymä\Ohjelmointi\source\repos\Operaattorit\Operaattorit\bin\Debug\Operaattorit.pdb
+C:\Users\179923\OneDrive - Salon seudun koulutuskuntayhtymä\Ohjelmointi\source\repos\Operaattorit\Operaattorit\obj\Debug\Operaattorit.csproj.AssemblyReference.cache
+C:\Users\179923\OneDrive - Salon seudun koulutuskuntayhtymä\Ohjelmointi\source\repos\Operaattorit\Operaattorit\obj\Debug\Operaattorit.csproj.CoreCompileInputs.cache
+C:\Users\179923\OneDrive - Salon seudun koulutuskuntayhtymä\Ohjelmointi\source\repos\Operaattorit\Operaattorit\obj\Debug\Operaattorit.exe
+C:\Users\179923\OneDrive - Salon seudun koulutuskuntayhtymä\Ohjelmointi\source\repos\Operaattorit\Operaattorit\obj\Debug\Operaattorit.pdb
